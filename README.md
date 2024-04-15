@@ -19,7 +19,9 @@ Website: https://buildingai.elementsofai.com/
   - ✅Exercise 7: Flip the coin
   - ✅Exercise 8: Fishing in the Nordics
 - The Bayes Rule
+  - ✅Exercise 9: Block or not
 - Naive Bayes classifier
+  - Exercise 10: Naive Bayes classifier
 
 ### Chapter 3 - Machine learning
 - Linear regression

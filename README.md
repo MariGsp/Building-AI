@@ -1,5 +1,6 @@
 # Elements of AI: Building AI
 MinnaLearn/University of Helsinki
+
 Website: https://buildingai.elementsofai.com/
 
 ### Chapter 1 - Getting started with AI

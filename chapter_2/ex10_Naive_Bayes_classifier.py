@@ -29,7 +29,7 @@ def bayes(sequence):
             r = 0.5 / (1 / 6)  # r = (Probability of 6 if loaded) / (Probability of 6 if normal)
         else:
             r = 0.1 / (1 / 6)
-        odds *= r
+        odds *= r  # multiply the current odds by r
 
     if odds > 1:
         return True

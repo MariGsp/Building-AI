@@ -21,7 +21,7 @@ Website: https://buildingai.elementsofai.com/
 - The Bayes Rule
   - ✅Exercise 9: Block or not
 - Naive Bayes classifier
-  - Exercise 10: Naive Bayes classifier
+  - ✅Exercise 10: Naive Bayes classifier
 
 ### Chapter 3 - Machine learning
 - Linear regression

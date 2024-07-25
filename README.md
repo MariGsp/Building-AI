@@ -28,7 +28,7 @@ Website: https://buildingai.elementsofai.com/
   - ✅Exercise 11: Real estate price predictions
   - ✅Exercise 12: Least squares
   - ✅Exercise 13: Predictions with more data
-  - Exercise 14: Training data vs test data
+  - ✅Exercise 14: Training data vs test data
 - The nearest neighbor method
 - Working with text
 - Overfitting

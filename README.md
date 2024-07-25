@@ -30,12 +30,19 @@ Website: https://buildingai.elementsofai.com/
   - ✅Exercise 13: Predictions with more data
   - ✅Exercise 14: Training data vs test data
 - The nearest neighbor method
+  - Exercise 15: Vector distances
+  - Exercise 16: Nearest neighbor
 - Working with text
+  - Exercise 17: Bag of words
+  - Exercise 18: TF-IDF
 - Overfitting
+  - Exercise 19: Looking out for overfitting
 
 ### Chapter 4 - Neural networks
 - Logistic regression
+  - Exercise 20: Logistic regression
 - From logistic regression to neural networks
+  - Exercise 21: Neural networks
 - Deep learning
 
 ### Chapter 5 - Conclusion
